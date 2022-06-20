@@ -1,0 +1,6 @@
+{
+  "LOCATION": {
+    "type": "String",
+    "default": "Israel"
+  }
+}
